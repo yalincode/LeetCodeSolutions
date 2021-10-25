@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9-PalindromeNumber", "2-Add Two Number\9-PalindromeNumber.csproj", "{15746C04-D67C-4E6C-923F-AB9976A971F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15746C04-D67C-4E6C-923F-AB9976A971F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15746C04-D67C-4E6C-923F-AB9976A971F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15746C04-D67C-4E6C-923F-AB9976A971F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15746C04-D67C-4E6C-923F-AB9976A971F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6C086B3-2E46-48D4-B68E-4CE59C6B7C87}
+	EndGlobalSection
+EndGlobal
